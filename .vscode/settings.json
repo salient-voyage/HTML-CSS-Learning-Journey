@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "colorTabs.config": [
+        {
+            "regex": "CH3. Hovers & Transitions/Exercise 3\\.*"
+        },
+        {
+            "regex": ".*/web/.*"
+        },
+        {
+            "regex": ".*/mobile/.*"
+        }
+    ]
+}

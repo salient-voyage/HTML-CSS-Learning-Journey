@@ -1,0 +1,56 @@
+  .amazon-link {
+      margin-left: 6px;
+      font-size: 20px;
+      transition: color 0.15s;
+  }
+
+  .amazon-link:hover {
+      color: red;
+  }
+
+  .productName {
+      margin-left: 6px;
+  }
+
+  .price {
+      color: green;
+      font-size: 24px;
+      font-weight: bold;
+      margin-left: 6px;
+  }
+
+  .delivery {
+      font-size: 20px;
+      margin-left: 6px;
+  }
+
+  .addCart-button {
+      background-color: rgba(255, 204, 0, 0.64);
+      border: none;
+      border-radius: 16px;
+      height: 32px;
+      width: 135px;
+      font-size: 14px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+  }
+
+  .addCart-button:active{
+     opacity: 0.9;
+  }
+
+  .buyNow-button {
+      background-color: rgba(255, 166, 0, 0.664);
+      border: none;
+      border-radius: 16px;
+      height: 32px;
+      width: 125px;
+      font-size: 14px;
+      margin-left: 10px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+  }
+
+  .buyNow-button:active {
+    opacity: 0.9;
+  }
