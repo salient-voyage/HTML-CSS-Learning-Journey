@@ -1,0 +1,43 @@
+  .linkedIn-button {
+      background-color: rgb(27, 108, 190);
+      border: none;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      padding-left: 30px;
+      padding-right: 30px;
+      border-radius: 18px;
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      transition: background 0.15s;
+      cursor: pointer;
+  }
+
+  .linkedIn-button:hover {
+      background-color: rgb(21, 83, 145);
+  }
+
+  .save-button {
+      background-color: white;
+      border-width: 1px;
+      border-color: rgb(27, 108, 190);
+      border-style: solid;
+      border-radius: 18px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      padding-left: 20px;
+      padding-right: 20px;
+      color: rgb(27, 108, 190);
+      font-weight: bold;
+      font-size: 15px;
+      margin-left: 10px;
+      transition: background-color 0.15s,
+          border-width 0.15s;
+      cursor: pointer;
+
+  }
+
+  .save-button:hover {
+      background-color: rgba(198, 218, 239, 0.399);
+      border-width: 2px;
+  }

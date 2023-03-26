@@ -15,11 +15,11 @@
     transition: opacity 0.15s;
 }
 
-.subscribe-button:hover{
+.subscribe-button:hover {
     opacity: 0.8;
 }
 
-.subscribe-button:active{
+.subscribe-button:active {
     opacity: 0.5;
 }
 
@@ -35,19 +35,19 @@
     padding-bottom: 9px;
     padding-left: 16px;
     padding-right: 16px;
-    
+
     transition: background-color 0.15s,
-     color 0.15s;
+        color 0.15s;
 
 
 }
 
-.join-button:hover{
+.join-button:hover {
     background-color: rgb(6, 95, 212);
     color: white;
 }
 
-.join-button:active{
+.join-button:active {
     opacity: 0.7;
 }
 
@@ -70,6 +70,6 @@
     transition: box-shadow 0.15s;
 }
 
-.tweet-button:hover{
+.tweet-button:hover {
     box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.15);
 }
